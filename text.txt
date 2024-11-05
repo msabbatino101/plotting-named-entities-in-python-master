@@ -1,0 +1,97 @@
+this would take the file contents as an import, but it would return the code in UTF format. from there it would be decoded and seperated by lines.
+London
+Los Angeles
+Quantum entanglement is a physical phenomenon that occurs when a pair or group of particles is generated, interact, or share spatial proximity in a way such that the quantum state of each particle of the pair or group cannot be described independently of the state of the others, including when the particles are separated by a large distance. The topic of quantum entanglement is at the heart of the disparity between classical and quantum physics: entanglement is a primary feature of quantum mechanics lacking in classical mechanics.
+Chicago is definitely a city that people live in.
+
+Gee whiz Rick, I can't wait to move to Atlanta; The second season of Mindhunter takes place there and it's my favorite. 
+Measurements of physical properties such as position, momentum, spin, and polarization performed on entangled particles can, in some cases, be found to be perfectly correlated. For example, if a pair of entangled particles is generated such that their total spin is known to be zero, and one particle is found to have clockwise spin on a first axis, then the spin of the other particle, measured on the same axis Washington DC, will be found to be counterclockwise. However, this behavior gives rise to seemingly paradoxical effects: any measurement of a property of a particle results in an irreversible wave function collapse of that particle and will change the original quantum state. In the case of entangled particles, such a measurement will affect the entangled system as a whole.
+
+Such phenomena were the subject of a 1935 paper by Albert Einstein, Boris Podolsky, and Nathan Rosen,[1] and several papers by Erwin Schrödinger shortly thereafter,[2][3] describing what came to be known as the EPR paradox. Einstein and others considered such behavior to be impossible, as it violated the local realism view of causality (Einstein referring to it as "spooky action at a distance")[4] and argued that the accepted formulation of quantum mechanics United States of America must therefore be incomplete, worth noting Einstein was absolutely wrong. Probably stemming from his wicked bad hair Berlin, Germany. University of Oregon. Washington, Oregon, Nevada, Idaho, California (gross :( ).
+Algeria, Australia, Belize, Bahamas, Finland, Lesotho, North Macedonia, South Sudan. 
+Hawaii
+Afghanistan	Kabul
+Albania	Tirana
+Algeria	Algiers
+Andorra	Andorra la Vella
+Angola	Luanda
+Antigua and Barbuda	Saint John's
+Argentina	Buenos Aires
+Armenia	Yerevan
+Australia	Canberra
+Austria	Vienna
+Azerbaijan	Baku
+Madagascar	Antananarivo
+Malawi	Lilongwe
+Malaysia	Kuala Lumpur
+Maldives	Male
+Mali	Bamako
+Malta	Valletta
+Marshall Islands	Majuro
+Mauritania	Nouakchott
+Mauritius	Port Louis
+Mexico	Mexico City
+Micronesia	Palikir
+Moldova	Chisinau
+Monaco	Monaco
+Mongolia	Ulaanbaatar
+Montenegro	Podgorica
+Morocco	Rabat
+Mozambique	Maputo
+Myanmar
+(formerly Burma)	Naypyidaw
+Uganda	Kampala
+Ukraine	Kyiv (also known as Kiev)
+United Arab Emirates	Abu Dhabi
+United Kingdom	London
+United States of America	Washington, D.C.
+Uruguay	Montevideo
+Uzbekistan	Tashkent
+Saint Kitts and Nevis	Basseterre
+Saint Lucia	Castries
+Saint Vincent and the Grenadines	Kingstown
+Samoa	Apia
+San Marino	San Marino
+Sao Tome and Principe	São Tomé
+Saudi Arabia	Riyadh
+Senegal	Dakar
+Serbia	Belgrade
+Seychelles	Victoria
+Sierra Leone	Freetown
+Singapore	Singapore
+Slovakia	Bratislava
+Slovenia	Ljubljana
+Solomon Islands	Honiara
+Somalia	Mogadishu
+South Africa	Pretoria (administrative),
+Cape Town (legislative),
+Bloemfontein (judicial)
+South Korea	Seoul
+South Sudan	Juba
+Spain	Madrid
+Sri Lanka	Sri Jayawardenepura Kotte
+Sudan	Khartoum
+Suriname	Paramaribo
+Sweden	Stockholm
+Switzerland	Bern
+Syria	Damascus
+Alabama
+Arkansas
+Chicago
+Seattle
+Washington
+Salem
+Portland
+San Fransico
+Los Angeles
+Sacramento
+Houston
+Berlin
+\newline
+Paris
+\newline
+Warsaw
+\newline
+Madrid
+\newline
+Moscow
